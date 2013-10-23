@@ -476,7 +476,7 @@ WARNING
   end
 
   def bundler_binstubs_path
-    "vendor/bundle/bin"
+    "home/walter/.rvm/bin"
   end
 
   # runs bundler to install the dependencies
